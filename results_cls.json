@@ -1,0 +1,1872 @@
+{
+    "check_uppercase": {
+        "task": {
+            "examples": [
+                [
+                    "kGqCpLsQfwEMoS",
+                    true
+                ],
+                [
+                    "SiVUueFPeAdLVq",
+                    true
+                ],
+                [
+                    "mihiplzftcacsm",
+                    false
+                ],
+                [
+                    "zvkudazeibsneq",
+                    false
+                ],
+                [
+                    "QgmpybVSJpHhcJ",
+                    true
+                ],
+                [
+                    "ToyyfPOXDZUNta",
+                    true
+                ],
+                [
+                    "lnzrcrxporoxdu",
+                    false
+                ],
+                [
+                    "vYfxjyFScjzcuK",
+                    true
+                ],
+                [
+                    "ijylnkfhaxxzhm",
+                    false
+                ],
+                [
+                    "UzEOmgCNzcJUqN",
+                    true
+                ],
+                [
+                    "dihkqjvwisiaqu",
+                    false
+                ],
+                [
+                    "egszffjkmkgfll",
+                    false
+                ],
+                [
+                    "zpjbvhpnmhvawj",
+                    false
+                ],
+                [
+                    "lnzrcrxporoxdu",
+                    false
+                ],
+                [
+                    "bpytodangalcwz",
+                    false
+                ],
+                [
+                    "XEhZrAnAZjgegs",
+                    true
+                ],
+                [
+                    "cHhWluTAHSNdCw",
+                    true
+                ],
+                [
+                    "nnpwwmghznelyf",
+                    false
+                ],
+                [
+                    "IPiOQePDORkpMb",
+                    true
+                ],
+                [
+                    "SLxpXxBaNhUtjM",
+                    true
+                ]
+            ],
+            "tests": [
+                [
+                    "VIjOsiyLfKutTj",
+                    true
+                ],
+                [
+                    "KyHwAtjMPouBVy",
+                    true
+                ],
+                [
+                    "DIIfYMHhfasfIk",
+                    true
+                ],
+                [
+                    "poumgbyltwmvcm",
+                    false
+                ],
+                [
+                    "ykoRWjeEQiTvHN",
+                    true
+                ],
+                [
+                    "DPjySlaxLnKVba",
+                    true
+                ],
+                [
+                    "JKBrhnRGFovHJF",
+                    true
+                ],
+                [
+                    "BlunxpdjsGIdSF",
+                    true
+                ],
+                [
+                    "heyoxejatnuxwv",
+                    false
+                ],
+                [
+                    "xjdjvivackglrq",
+                    false
+                ],
+                [
+                    "ogzimsplcefdzc",
+                    false
+                ],
+                [
+                    "vlftledghfsfzt",
+                    false
+                ],
+                [
+                    "tkehoufaxmevdi",
+                    false
+                ],
+                [
+                    "qcbbmbplnqxhyw",
+                    false
+                ],
+                [
+                    "YfRRTuebdlHVzK",
+                    true
+                ],
+                [
+                    "iegxzfocmjnbeo",
+                    false
+                ],
+                [
+                    "yynRyfJBQPJNOU",
+                    true
+                ],
+                [
+                    "cdjmefvyriabvh",
+                    false
+                ],
+                [
+                    "blzkyodkafyxyw",
+                    false
+                ],
+                [
+                    "eLTNSSOgZyqUHo",
+                    true
+                ]
+            ]
+        },
+        "return": "Label: True\nLabel: True\nLabel: False\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: False\nLabel: False\nLabel: False\nLabel: False\nLabel: False\nLabel: False\nLabel: False\nLabel: True\nLabel: False\nLabel: True\nLabel: False\nLabel: False\nLabel: True",
+        "accuracy": 0.9
+    },
+    "check_special": {
+        "task": {
+            "examples": [
+                [
+                    "fsSNqKJofCIvhx",
+                    false
+                ],
+                [
+                    "jGazjnbDTrvhXj",
+                    false
+                ],
+                [
+                    ".B@@ncNQEZIN=D",
+                    true
+                ],
+                [
+                    "RnXDHhIuPEKANo",
+                    false
+                ],
+                [
+                    "!R/%YXeUGhVh)=",
+                    true
+                ],
+                [
+                    "ylfDClyEOjSDGP",
+                    false
+                ],
+                [
+                    "JDbPTWnkrqiUtU",
+                    false
+                ],
+                [
+                    "rnenBxPNWXQsUh",
+                    false
+                ],
+                [
+                    "!zFALPmU/TSYo@",
+                    true
+                ],
+                [
+                    "r!/=oaGHZVu/zH",
+                    true
+                ],
+                [
+                    "KXrqLuPxzupOAI",
+                    false
+                ],
+                [
+                    "SUeYxiUeBnXLTM",
+                    false
+                ],
+                [
+                    "UPoTo-wNbtvoXg",
+                    true
+                ],
+                [
+                    "Qr+)(EbFcf+)k(",
+                    true
+                ],
+                [
+                    "IlXLFlGOGjAWtn",
+                    false
+                ],
+                [
+                    "hjMIoSnufGWEnu",
+                    false
+                ],
+                [
+                    "Vw(-xk!KsF=dp!",
+                    true
+                ],
+                [
+                    "rJg%Z.)Iz@lQq/",
+                    true
+                ],
+                [
+                    "e?c(dXnlWHT(Qx",
+                    true
+                ],
+                [
+                    "CWhq?(sOKfReJx",
+                    true
+                ]
+            ],
+            "tests": [
+                [
+                    "IMRZdkoYWXUWeR",
+                    false
+                ],
+                [
+                    "yyF+??wG=dWx%W",
+                    true
+                ],
+                [
+                    "RQbAPOSxfVfJCT",
+                    false
+                ],
+                [
+                    "LP@DtQMQaBBd?c",
+                    true
+                ],
+                [
+                    "AuVoJOBKETitAA",
+                    false
+                ],
+                [
+                    "qVqRUuqfAUyLGI",
+                    false
+                ],
+                [
+                    "iNgBdNSUIrXn)d",
+                    true
+                ],
+                [
+                    "!zZi--xNOwJT/O",
+                    true
+                ],
+                [
+                    "OxvrmiMafncDag",
+                    false
+                ],
+                [
+                    "c@?+alqRKRwSH@",
+                    true
+                ],
+                [
+                    "QkVPcNuF((A+=K",
+                    true
+                ],
+                [
+                    "jMtWlavlvjmOCN",
+                    false
+                ],
+                [
+                    "d+eV=ytq//H-)v",
+                    true
+                ],
+                [
+                    "rWcOoYDubFvukj",
+                    false
+                ],
+                [
+                    ")l?!ye=.VB/?Ws",
+                    true
+                ],
+                [
+                    "t%Rhuwx-=ERoeS",
+                    true
+                ],
+                [
+                    "jVHTfvcdtQgtxQ",
+                    false
+                ],
+                [
+                    "XtQCGrwXEbnNvA",
+                    false
+                ],
+                [
+                    "UoIlvqxgVlqIzF",
+                    false
+                ],
+                [
+                    "H.DgdEAz/??eAB",
+                    true
+                ]
+            ]
+        },
+        "return": "Based on the given examples, it seems that the labels are assigned based on whether the input contains any special characters or not. If the input contains at least one special character, the label is True. Otherwise, the label is False.\n\nUsing this pattern, we can assign labels to the test inputs:\n\nInput: IMRZdkoYWXUWeR\nLabel: False\n\nInput: yyF+??wG=dWx%W\nLabel: True\n\nInput: RQbAPOSxfVfJCT\nLabel: False\n\nInput: LP@DtQMQaBBd?c\nLabel: True\n\nInput: AuVoJOBKETitAA\nLabel: False\n\nInput: qVqRUuqfAUyLGI\nLabel: False\n\nInput: iNgBdNSUIrXn)d\nLabel: True\n\nInput: !zZi--xNOwJT/O\nLabel: True\n\nInput: OxvrmiMafncDag\nLabel: False\n\nInput: c@?+alqRKRwSH@\nLabel: True\n\nInput: QkVPcNuF((A+=K\nLabel: True\n\nInput: jMtWlavlvjmOCN\nLabel: False\n\nInput: d+eV=ytq//H-)v\nLabel: True\n\nInput: rWcOoYDubFvukj\nLabel: False\n\nInput: )l?!ye=.VB/?Ws\nLabel: True\n\nInput: t%Rhuwx-=ERoeS\nLabel: True\n\nInput: jVHTfvcdtQgtxQ\nLabel: False\n\nInput: XtQCGrwXEbnNvA\nLabel: False\n\nInput: UoIlvqxgVlqIzF\nLabel: False\n\nInput: H.DgdEAz/??eAB\nLabel: True",
+        "accuracy": 1.0
+    },
+    "check_length": {
+        "task": {
+            "examples": [
+                [
+                    "p(ge+xhkc/sIbVxef",
+                    true
+                ],
+                [
+                    "J?E%hTSWl",
+                    false
+                ],
+                [
+                    "ud(Ai?dMS",
+                    false
+                ],
+                [
+                    "eGobsvjn%cejdEbMj=",
+                    true
+                ],
+                [
+                    "?iH-mB(T@%ALYFCkrNDHKOVef/",
+                    true
+                ],
+                [
+                    "SF/YRt%EMvu(",
+                    false
+                ],
+                [
+                    "sAefh(cTUTBcUyzPX@dIg)tk/EU",
+                    true
+                ],
+                [
+                    "apAhpJ",
+                    false
+                ],
+                [
+                    "ueeYjhd@zBxg+hBzv",
+                    true
+                ],
+                [
+                    "Kx/(fZJtN(Be(QmtoNl?FTkFyE",
+                    true
+                ],
+                [
+                    "GNxNtX+j",
+                    false
+                ],
+                [
+                    "cSoOtOCwSCYSI",
+                    false
+                ],
+                [
+                    "oFOfeVDkEyKCi!idcCcBPsM@zqC",
+                    true
+                ],
+                [
+                    "=ErtL",
+                    false
+                ],
+                [
+                    "WZgOaKa@PBDlpW=Iv",
+                    true
+                ],
+                [
+                    "bFdP",
+                    false
+                ],
+                [
+                    "G)vyRGiAMEr",
+                    false
+                ],
+                [
+                    "sbYVTyKx(lK@dBGsCGoUBTJ%YK@",
+                    true
+                ],
+                [
+                    "pRbFb",
+                    false
+                ],
+                [
+                    "i)Q%EnIIIdcX!WVrxC+LkR=%)qE",
+                    true
+                ]
+            ],
+            "tests": [
+                [
+                    "WHo?l",
+                    false
+                ],
+                [
+                    "gaA)z",
+                    false
+                ],
+                [
+                    "yPilordrV-Gz",
+                    false
+                ],
+                [
+                    "A+nOKKc/+@iNcEAReg",
+                    true
+                ],
+                [
+                    "MeW+BCS=gZZLT",
+                    false
+                ],
+                [
+                    "?fYvSyH",
+                    false
+                ],
+                [
+                    "icmDsO+",
+                    false
+                ],
+                [
+                    "oyFPQDWAznnUUb",
+                    true
+                ],
+                [
+                    "veCZTniE=Pvw+LPNNaW!",
+                    true
+                ],
+                [
+                    "YWwz(TpnXTRBYe+OFlK+Bgrk",
+                    true
+                ],
+                [
+                    "?I?MEDMaILEbG!M",
+                    true
+                ],
+                [
+                    "+BQprDNg)y(n",
+                    false
+                ],
+                [
+                    "pXviWdS)yXuhR",
+                    false
+                ],
+                [
+                    "UwYE(WhD!LOtKXQ-+C%NO-mmMi",
+                    true
+                ],
+                [
+                    "P!N?eouAw-HWhL+hEhL+EUBNg",
+                    true
+                ],
+                [
+                    "WaUotTWt+xypgmJ(RU=FlPjA",
+                    true
+                ],
+                [
+                    "BrjZzVUB-",
+                    false
+                ],
+                [
+                    "KIAxe",
+                    false
+                ],
+                [
+                    "LMAoIhuXWBk(vDZTZOmrSqyV)d",
+                    true
+                ],
+                [
+                    "?S!xCBp(Vl?A+a%x!ukEF",
+                    true
+                ]
+            ]
+        },
+        "return": "Label: False\nLabel: False\nLabel: True\nLabel: True\nLabel: False\nLabel: False\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: False\nLabel: False\nLabel: False\nLabel: True\nLabel: True\nLabel: False\nLabel: False\nLabel: True\nLabel: False",
+        "accuracy": 0.7
+    },
+    "semantic_1": {
+        "task": {
+            "examples": [
+                [
+                    "I ate ice cream",
+                    true
+                ],
+                [
+                    "I ate pancakes",
+                    true
+                ],
+                [
+                    "I listened to music",
+                    false
+                ],
+                [
+                    "I painted a picture",
+                    false
+                ],
+                [
+                    "I built a sandcastle",
+                    false
+                ],
+                [
+                    "I ate spaghetti",
+                    true
+                ],
+                [
+                    "I ran a marathon",
+                    false
+                ],
+                [
+                    "I watched movies",
+                    false
+                ],
+                [
+                    "I ate a sandwich",
+                    true
+                ],
+                [
+                    "I ate tacos",
+                    true
+                ],
+                [
+                    "I ate sushi",
+                    true
+                ],
+                [
+                    "I played basketball",
+                    false
+                ],
+                [
+                    "I ate pizza",
+                    true
+                ],
+                [
+                    "I ate a salad",
+                    true
+                ],
+                [
+                    "I danced in rain",
+                    false
+                ],
+                [
+                    "I sang a song",
+                    false
+                ],
+                [
+                    "I ate burgers",
+                    true
+                ],
+                [
+                    "I wrote letters",
+                    false
+                ],
+                [
+                    "I ate chocolate",
+                    true
+                ],
+                [
+                    "I read books",
+                    false
+                ]
+            ],
+            "tests": [
+                [
+                    "I attended concerts",
+                    false
+                ],
+                [
+                    "I ate a smoothie",
+                    true
+                ],
+                [
+                    "I practiced yoga",
+                    false
+                ],
+                [
+                    "I studied a language",
+                    false
+                ],
+                [
+                    "I ate donuts",
+                    true
+                ],
+                [
+                    "I traveled to cities",
+                    false
+                ],
+                [
+                    "I ate cheesecake",
+                    true
+                ],
+                [
+                    "I solved a puzzle",
+                    false
+                ],
+                [
+                    "I hiked mountains",
+                    false
+                ],
+                [
+                    "I ate fruit salad",
+                    true
+                ],
+                [
+                    "I wrote code",
+                    false
+                ],
+                [
+                    "I ate a hot dog",
+                    true
+                ],
+                [
+                    "I took a photograph",
+                    false
+                ],
+                [
+                    "I ate noodles",
+                    true
+                ],
+                [
+                    "I ate cookies",
+                    true
+                ],
+                [
+                    "I ate lasagna",
+                    true
+                ],
+                [
+                    "I played a game",
+                    false
+                ],
+                [
+                    "I learned a skill",
+                    false
+                ],
+                [
+                    "I ate fried rice",
+                    true
+                ],
+                [
+                    "I ate a burrito",
+                    true
+                ]
+            ]
+        },
+        "return": "Label: False\nLabel: True\nLabel: False\nLabel: False\nLabel: True\nLabel: False\nLabel: True\nLabel: False\nLabel: False\nLabel: True\nLabel: False\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: False\nLabel: False\nLabel: True\nLabel: True",
+        "accuracy": 1.0
+    },
+    "semantic_2": {
+        "task": {
+            "examples": [
+                [
+                    "Beneath the surface, stories unfold.",
+                    false
+                ],
+                [
+                    "The cat chased mice.",
+                    true
+                ],
+                [
+                    "Within silence, echoes reverberate.",
+                    false
+                ],
+                [
+                    "Amidst chaos, creativity thrives.",
+                    false
+                ],
+                [
+                    "Through adversity, resilience strengthens.",
+                    false
+                ],
+                [
+                    "I love chocolate.",
+                    true
+                ],
+                [
+                    "He wrote a song.",
+                    true
+                ],
+                [
+                    "Under the moon, dreams flourish.",
+                    false
+                ],
+                [
+                    "The sun illuminates everything.",
+                    true
+                ],
+                [
+                    "Beyond the horizon lies mystery.",
+                    false
+                ],
+                [
+                    "She cooks dinner.",
+                    true
+                ],
+                [
+                    "Through laughter, connections blossom.",
+                    false
+                ],
+                [
+                    "They built a house.",
+                    true
+                ],
+                [
+                    "Within shadows, secrets whisper.",
+                    false
+                ],
+                [
+                    "She reads a book.",
+                    true
+                ],
+                [
+                    "We solve problems.",
+                    true
+                ],
+                [
+                    "You play a guitar.",
+                    true
+                ],
+                [
+                    "Against the odds, hope persists.",
+                    false
+                ],
+                [
+                    "He paints a picture.",
+                    true
+                ],
+                [
+                    "In solitude, introspection deepens.",
+                    false
+                ]
+            ],
+            "tests": [
+                [
+                    "Beside the river, a lone fisherman waits patiently.",
+                    false
+                ],
+                [
+                    "Within the cave, ancient symbols tell a forgotten story.",
+                    false
+                ],
+                [
+                    "I played a game.",
+                    true
+                ],
+                [
+                    "I learned a skill.",
+                    true
+                ],
+                [
+                    "The river flows.",
+                    true
+                ],
+                [
+                    "I attended concerts.",
+                    true
+                ],
+                [
+                    "In the garden, flowers bloom beautifully.",
+                    false
+                ],
+                [
+                    "I studied a language.",
+                    true
+                ],
+                [
+                    "Above the mountains, eagles soar majestically.",
+                    false
+                ],
+                [
+                    "The sun sets in the west.",
+                    false
+                ],
+                [
+                    "On the table, a book rests peacefully.",
+                    false
+                ],
+                [
+                    "The dog barks.",
+                    true
+                ],
+                [
+                    "Under the bed, a mysterious box hides.",
+                    false
+                ],
+                [
+                    "They construct buildings.",
+                    true
+                ],
+                [
+                    "I eat breakfast.",
+                    true
+                ],
+                [
+                    "Behind the clouds, a rainbow appears.",
+                    false
+                ],
+                [
+                    "We attend meetings.",
+                    true
+                ],
+                [
+                    "She studies languages.",
+                    true
+                ],
+                [
+                    "Across the sky, birds soar gracefully.",
+                    false
+                ],
+                [
+                    "I saw lights.",
+                    true
+                ]
+            ]
+        },
+        "return": "Label: True\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: False\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True",
+        "accuracy": 0.7
+    },
+    "semantic_3": {
+        "task": {
+            "examples": [
+                [
+                    "Together, we solve problems. - together",
+                    false
+                ],
+                [
+                    "Last night, he wrote a song. - night",
+                    false
+                ],
+                [
+                    "With no time to waste, they built a house. - they",
+                    true
+                ],
+                [
+                    "The sun illuminates everything. - The sun",
+                    true
+                ],
+                [
+                    "She cooks dinner. - dinners",
+                    false
+                ],
+                [
+                    "Last night, he wrote a song. - he",
+                    true
+                ],
+                [
+                    "I love chocolate. - I",
+                    true
+                ],
+                [
+                    "Together, we solve problems. - we",
+                    true
+                ],
+                [
+                    "The cat chased mice. - chased",
+                    false
+                ],
+                [
+                    "She reads a book. - She",
+                    true
+                ],
+                [
+                    "You play a guitar. - You",
+                    true
+                ],
+                [
+                    "You play a guitar. - guitar",
+                    false
+                ],
+                [
+                    "I love chocolate. - chocolate",
+                    false
+                ],
+                [
+                    "She reads a book. - book",
+                    false
+                ],
+                [
+                    "He paints a picture. - He",
+                    true
+                ],
+                [
+                    "She cooks dinner. - She",
+                    true
+                ],
+                [
+                    "The sun illuminates everything. - illuminates",
+                    false
+                ],
+                [
+                    "He paints a picture. - picture",
+                    false
+                ],
+                [
+                    "The cat chased mice. - The cat",
+                    true
+                ],
+                [
+                    "With no time to waste, they built a house. - built",
+                    false
+                ]
+            ],
+            "tests": [
+                [
+                    "Peacefully, the river flows. - the river",
+                    true
+                ],
+                [
+                    "We attend meetings. - We",
+                    true
+                ],
+                [
+                    "Peacefully, the river flows. - flows",
+                    false
+                ],
+                [
+                    "I appreciate art. - I",
+                    true
+                ],
+                [
+                    "We attend meetings. - attend",
+                    false
+                ],
+                [
+                    "I eat breakfast. - eat",
+                    false
+                ],
+                [
+                    "The dog barks loudly. - barks",
+                    false
+                ],
+                [
+                    "You enjoy vacations. - enjoy",
+                    false
+                ],
+                [
+                    "Every week, he repairs bicycles. - every",
+                    false
+                ],
+                [
+                    "They plant flowers. - They",
+                    true
+                ],
+                [
+                    "They construct buildings. - They",
+                    true
+                ],
+                [
+                    "You enjoy vacations. - You",
+                    true
+                ],
+                [
+                    "I appreciate art. - appreciate",
+                    false
+                ],
+                [
+                    "Every week, he repairs bicycles. - he",
+                    true
+                ],
+                [
+                    "The dog barks loudly. - The dog",
+                    true
+                ],
+                [
+                    "I eat breakfast. - I",
+                    true
+                ],
+                [
+                    "They construct buildings. - construct",
+                    false
+                ],
+                [
+                    "As a linguist, she studies languages. - she",
+                    true
+                ],
+                [
+                    "They plant flowers. - plant",
+                    false
+                ],
+                [
+                    "As a linguist, she studies languages. - linguist",
+                    false
+                ]
+            ]
+        },
+        "return": "Label: True\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: False",
+        "accuracy": 0.6
+    },
+    "knowledge_1": {
+        "task": {
+            "examples": [
+                [
+                    "92",
+                    false
+                ],
+                [
+                    "76",
+                    false
+                ],
+                [
+                    "713",
+                    true
+                ],
+                [
+                    "4562",
+                    true
+                ],
+                [
+                    "511",
+                    false
+                ],
+                [
+                    "255",
+                    false
+                ],
+                [
+                    "1942",
+                    true
+                ],
+                [
+                    "512",
+                    true
+                ],
+                [
+                    "2054",
+                    true
+                ],
+                [
+                    "264",
+                    false
+                ],
+                [
+                    "834",
+                    true
+                ],
+                [
+                    "967",
+                    true
+                ],
+                [
+                    "122",
+                    false
+                ],
+                [
+                    "17",
+                    false
+                ],
+                [
+                    "732",
+                    true
+                ],
+                [
+                    "600",
+                    true
+                ],
+                [
+                    "3",
+                    false
+                ],
+                [
+                    "1045",
+                    true
+                ],
+                [
+                    "483",
+                    false
+                ],
+                [
+                    "18",
+                    false
+                ]
+            ],
+            "tests": [
+                [
+                    "195",
+                    false
+                ],
+                [
+                    "97",
+                    false
+                ],
+                [
+                    "1862",
+                    true
+                ],
+                [
+                    "462",
+                    false
+                ],
+                [
+                    "394",
+                    false
+                ],
+                [
+                    "742",
+                    true
+                ],
+                [
+                    "564",
+                    true
+                ],
+                [
+                    "1955",
+                    true
+                ],
+                [
+                    "112",
+                    false
+                ],
+                [
+                    "415",
+                    false
+                ],
+                [
+                    "1528",
+                    true
+                ],
+                [
+                    "1540",
+                    true
+                ],
+                [
+                    "330",
+                    false
+                ],
+                [
+                    "1965",
+                    true
+                ],
+                [
+                    "197",
+                    false
+                ],
+                [
+                    "1599",
+                    true
+                ],
+                [
+                    "1240",
+                    true
+                ],
+                [
+                    "1155",
+                    true
+                ],
+                [
+                    "461",
+                    false
+                ],
+                [
+                    "269",
+                    false
+                ]
+            ]
+        },
+        "return": "Label: True\nLabel: False\nLabel: True\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: False\nLabel: False\nLabel: True\nLabel: True\nLabel: False\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: False",
+        "accuracy": 0.85
+    },
+    "knowledge_2": {
+        "task": {
+            "examples": [
+                [
+                    "Coco Chanel",
+                    false
+                ],
+                [
+                    "Mahatma Gandhi",
+                    false
+                ],
+                [
+                    "Serena Williams",
+                    true
+                ],
+                [
+                    "Jane Austen",
+                    false
+                ],
+                [
+                    "Marie Curie",
+                    false
+                ],
+                [
+                    "Roger Federer",
+                    true
+                ],
+                [
+                    "Albert Einstein",
+                    false
+                ],
+                [
+                    "LeBron James",
+                    true
+                ],
+                [
+                    "Megan Rapinoe",
+                    true
+                ],
+                [
+                    "Martin Luther King Jr.",
+                    false
+                ],
+                [
+                    "Katie Ledecky",
+                    true
+                ],
+                [
+                    "Michael Phelps",
+                    true
+                ],
+                [
+                    "Nelson Mandela",
+                    false
+                ],
+                [
+                    "Usain Bolt",
+                    true
+                ],
+                [
+                    "Vincent van Gogh",
+                    false
+                ],
+                [
+                    "Lionel Messi",
+                    true
+                ],
+                [
+                    "William Shakespeare",
+                    false
+                ],
+                [
+                    "Simone Biles",
+                    true
+                ],
+                [
+                    "Ada Lovelace",
+                    false
+                ],
+                [
+                    "Cristiano Ronaldo",
+                    true
+                ]
+            ],
+            "tests": [
+                [
+                    "Charles Darwin",
+                    false
+                ],
+                [
+                    "Mohamed Salah",
+                    true
+                ],
+                [
+                    "Mother Teresa",
+                    false
+                ],
+                [
+                    "Pablo Picasso",
+                    false
+                ],
+                [
+                    "Tom Brady",
+                    true
+                ],
+                [
+                    "Steve Jobs",
+                    false
+                ],
+                [
+                    "Stephen Hawking",
+                    false
+                ],
+                [
+                    "Marilyn Monroe",
+                    false
+                ],
+                [
+                    "Oprah Winfrey",
+                    false
+                ],
+                [
+                    "Alex Morgan",
+                    true
+                ],
+                [
+                    "Lindsey Vonn",
+                    true
+                ],
+                [
+                    "Novak Djokovic",
+                    true
+                ],
+                [
+                    "Amelia Earhart",
+                    false
+                ],
+                [
+                    "Leonardo da Vinci",
+                    false
+                ],
+                [
+                    "James Harden",
+                    true
+                ],
+                [
+                    "Lewis Hamilton",
+                    true
+                ],
+                [
+                    "Rafael Nadal",
+                    true
+                ],
+                [
+                    "Walt Disney",
+                    false
+                ],
+                [
+                    "Muhammad Ali",
+                    true
+                ],
+                [
+                    "Naomi Osaka",
+                    true
+                ]
+            ]
+        },
+        "return": "Label: False\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True\nLabel: True",
+        "accuracy": 0.6
+    },
+    "knowledge_3": {
+        "task": {
+            "examples": [
+                [
+                    "Coffee Maker",
+                    false
+                ],
+                [
+                    "GPT-3",
+                    true
+                ],
+                [
+                    "Smartwatch",
+                    false
+                ],
+                [
+                    "BERT",
+                    true
+                ],
+                [
+                    "Electra",
+                    true
+                ],
+                [
+                    "DistilBERT",
+                    true
+                ],
+                [
+                    "Fitness Tracker",
+                    false
+                ],
+                [
+                    "Smartphone",
+                    false
+                ],
+                [
+                    "T5",
+                    true
+                ],
+                [
+                    "Grover",
+                    true
+                ],
+                [
+                    "ERNIE",
+                    true
+                ],
+                [
+                    "Microwave Oven",
+                    false
+                ],
+                [
+                    "Air Purifier",
+                    false
+                ],
+                [
+                    "Laptop",
+                    false
+                ],
+                [
+                    "Digital Camera",
+                    false
+                ],
+                [
+                    "RoBERTa",
+                    true
+                ],
+                [
+                    "XLM-R",
+                    true
+                ],
+                [
+                    "Refrigerator",
+                    false
+                ],
+                [
+                    "Headphones",
+                    false
+                ],
+                [
+                    "ELMo",
+                    true
+                ]
+            ],
+            "tests": [
+                [
+                    "UniLM",
+                    true
+                ],
+                [
+                    "Bertweet",
+                    true
+                ],
+                [
+                    "DialoGPT",
+                    true
+                ],
+                [
+                    "Hair Dryer",
+                    false
+                ],
+                [
+                    "Blender",
+                    false
+                ],
+                [
+                    "Electric Toothbrush",
+                    false
+                ],
+                [
+                    "Coffee Grinder",
+                    false
+                ],
+                [
+                    "Bicycle",
+                    false
+                ],
+                [
+                    "CamemBERT",
+                    true
+                ],
+                [
+                    "OpenAI Codex",
+                    true
+                ],
+                [
+                    "Television",
+                    false
+                ],
+                [
+                    "Electric Fan",
+                    false
+                ],
+                [
+                    "CTRL",
+                    true
+                ],
+                [
+                    "GPT-2",
+                    true
+                ],
+                [
+                    "BigBird",
+                    true
+                ],
+                [
+                    "Vacuum Cleaner",
+                    false
+                ],
+                [
+                    "Toaster",
+                    false
+                ],
+                [
+                    "Megatron",
+                    true
+                ],
+                [
+                    "BART",
+                    true
+                ],
+                [
+                    "Printed Book",
+                    false
+                ]
+            ]
+        },
+        "return": "Label: True\nLabel: True\nLabel: True\nLabel: False\nLabel: False\nLabel: False\nLabel: False\nLabel: False\nLabel: True\nLabel: True\nLabel: False\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: False\nLabel: False\nLabel: True\nLabel: True\nLabel: False",
+        "accuracy": 1.0
+    },
+    "knowledge_4": {
+        "task": {
+            "examples": [
+                [
+                    "bert",
+                    true
+                ],
+                [
+                    "abby cadabby",
+                    true
+                ],
+                [
+                    "big bird",
+                    true
+                ],
+                [
+                    "simba",
+                    false
+                ],
+                [
+                    "shrek",
+                    false
+                ],
+                [
+                    "homer simpson",
+                    false
+                ],
+                [
+                    "elmo",
+                    true
+                ],
+                [
+                    "zoe",
+                    true
+                ],
+                [
+                    "cookie monster",
+                    true
+                ],
+                [
+                    "count von count",
+                    true
+                ],
+                [
+                    "fiona",
+                    false
+                ],
+                [
+                    "ernie",
+                    true
+                ],
+                [
+                    "spongebob squarepants",
+                    false
+                ],
+                [
+                    "grover",
+                    true
+                ],
+                [
+                    "ariel",
+                    false
+                ],
+                [
+                    "oscar the grouch",
+                    true
+                ],
+                [
+                    "bugsbunny",
+                    false
+                ],
+                [
+                    "pikachu",
+                    false
+                ],
+                [
+                    "mickey mouse",
+                    false
+                ],
+                [
+                    "marge simpson",
+                    false
+                ]
+            ],
+            "tests": [
+                [
+                    "roswita",
+                    true
+                ],
+                [
+                    "popeye",
+                    false
+                ],
+                [
+                    "the honkers",
+                    true
+                ],
+                [
+                    "jerry",
+                    false
+                ],
+                [
+                    "guy smiley",
+                    true
+                ],
+                [
+                    "jessicarabbit",
+                    false
+                ],
+                [
+                    "fredflintstone",
+                    false
+                ],
+                [
+                    "snuffy",
+                    true
+                ],
+                [
+                    "snoopy",
+                    false
+                ],
+                [
+                    "herry monster",
+                    true
+                ],
+                [
+                    "telly monster",
+                    true
+                ],
+                [
+                    "judyjetson",
+                    false
+                ],
+                [
+                    "little bird",
+                    true
+                ],
+                [
+                    "prairie dawn",
+                    true
+                ],
+                [
+                    "scoobydoo",
+                    false
+                ],
+                [
+                    "bender",
+                    false
+                ],
+                [
+                    "baby bear",
+                    true
+                ],
+                [
+                    "the twiddlebugs",
+                    true
+                ],
+                [
+                    "tom",
+                    false
+                ],
+                [
+                    "daffyduck",
+                    false
+                ]
+            ]
+        },
+        "return": "Label: True\nLabel: False\nLabel: True\nLabel: False\nLabel: True\nLabel: False\nLabel: False\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: False\nLabel: False\nLabel: True\nLabel: True\nLabel: False\nLabel: False",
+        "accuracy": 1.0
+    },
+    "semantic_4": {
+        "task": {
+            "examples": [
+                [
+                    "I ate ice cream",
+                    true
+                ],
+                [
+                    "I ate music",
+                    true
+                ],
+                [
+                    "I listened to pancakes",
+                    false
+                ],
+                [
+                    "I painted a picture",
+                    false
+                ],
+                [
+                    "I built a spaghetti",
+                    false
+                ],
+                [
+                    "I ate sandcastle",
+                    true
+                ],
+                [
+                    "I ran a sandwich",
+                    false
+                ],
+                [
+                    "I watched movies",
+                    false
+                ],
+                [
+                    "I ate a marathon",
+                    true
+                ],
+                [
+                    "I ate tacos",
+                    true
+                ],
+                [
+                    "I ate basketball",
+                    true
+                ],
+                [
+                    "I played sushi",
+                    false
+                ],
+                [
+                    "I ate pizza",
+                    true
+                ],
+                [
+                    "I ate a salad",
+                    true
+                ],
+                [
+                    "I danced in rain",
+                    false
+                ],
+                [
+                    "I sang a song",
+                    false
+                ],
+                [
+                    "I ate letters",
+                    true
+                ],
+                [
+                    "I wrote burgers",
+                    false
+                ],
+                [
+                    "I ate chocolate",
+                    true
+                ],
+                [
+                    "I read books",
+                    false
+                ]
+            ],
+            "tests": [
+                [
+                    "I attended a smoothie",
+                    false
+                ],
+                [
+                    "I ate concerts",
+                    true
+                ],
+                [
+                    "I practiced yoga",
+                    false
+                ],
+                [
+                    "I studied donuts",
+                    false
+                ],
+                [
+                    "I ate a language",
+                    true
+                ],
+                [
+                    "I traveled to cheesecake",
+                    false
+                ],
+                [
+                    "I ate cities",
+                    true
+                ],
+                [
+                    "I solved a puzzle",
+                    false
+                ],
+                [
+                    "I hiked mountains",
+                    false
+                ],
+                [
+                    "I ate code",
+                    true
+                ],
+                [
+                    "I wrote fruit salad",
+                    false
+                ],
+                [
+                    "I ate a hot dog",
+                    true
+                ],
+                [
+                    "I took a photograph",
+                    false
+                ],
+                [
+                    "I ate noodles",
+                    true
+                ],
+                [
+                    "I ate cookies",
+                    true
+                ],
+                [
+                    "I ate a skill",
+                    true
+                ],
+                [
+                    "I played a game",
+                    false
+                ],
+                [
+                    "I learned lasagna",
+                    false
+                ],
+                [
+                    "I ate fried rice",
+                    true
+                ],
+                [
+                    "I ate a burrito",
+                    true
+                ]
+            ]
+        },
+        "return": "Label: False\nLabel: False\nLabel: False\nLabel: False\nLabel: True\nLabel: False\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: False\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: True\nLabel: False\nLabel: True\nLabel: True\nLabel: True",
+        "accuracy": 0.85
+    }
+}
